@@ -1,5 +1,5 @@
 {
-  "name": "electron",
+  "name": "@nithin1712/electron",
   "version": "11.0.0-nightly.20200821",
   "repository": "https://github.com/electron/electron",
   "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
